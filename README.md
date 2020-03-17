@@ -1,0 +1,2 @@
+# ProjectStrata
+ Front end template
